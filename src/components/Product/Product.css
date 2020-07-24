@@ -19,4 +19,5 @@
     background-color: goldenrod;
     border: 1px solid darkgray;
     border-radius: 5px;
+    cursor: pointer;
 }
